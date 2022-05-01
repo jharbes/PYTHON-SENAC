@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/arqTextos.iml" filepath="$PROJECT_DIR$/.idea/arqTextos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listaExercicios2/.idea/listaExercicios2.iml" filepath="$PROJECT_DIR$/../listaExercicios2/.idea/listaExercicios2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonsenac/.idea/pythonsenac.iml" filepath="$PROJECT_DIR$/../pythonsenac/.idea/pythonsenac.iml" />
+    </modules>
+  </component>
+</project>

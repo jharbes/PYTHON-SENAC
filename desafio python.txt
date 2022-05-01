@@ -1,0 +1,33 @@
+Desenvolver um app que receba os pedidos
+
+por mesas e calcule a conta final..
+
+
+
+Não esquecer de calcular os 10% do garçom
+
+
+
+e ao fechar a conta perguntar se será
+
+dividida entre os clientes
+
+Sistema
+
+1 - lançar pedido
+
+	de qual mesa[0] [1] [2]
+
+		pedido[0] = Valor
+
+		pedido[1] = valor
+
+
+
+2 - fechar conta
+
+	de qual mesa[0] [1] [2]
+
+		totalpedido = pedido[0]+pedido[1]
+
+	pessoas pagantes? 

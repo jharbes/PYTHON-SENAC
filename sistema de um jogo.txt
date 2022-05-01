@@ -1,0 +1,15 @@
+Sistema de um jogo 
+
+O computador sorteia um número e apresenta ao jogador a pergunta:  
+
+Qual número pensei? 
+
+O jogador digita um número e o sistema deve comparar o “chute” com o número “pensado” e oferece as seguintes respostas.. 
+
+Se maior informa que o chute é maior do que o número pensado 
+
+Se menor informa que o chute é menor que o número pensado 
+
+Se for igual informa que ele acertou... 
+
+Ao final do jogo, após acertar o número pensado, o computador deve informar em quantas tentativas o jogador conseguiu acetar. 
